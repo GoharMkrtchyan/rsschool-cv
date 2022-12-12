@@ -3,7 +3,7 @@
 ## Contacts
 **Location** Yerevan, Armenia
 
-**Phone:** +374 99 297 655
+**Phone:** +374 99 297655
 
 **E-mail:** g.mkrtchiann@gmail.com
 
