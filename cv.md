@@ -11,7 +11,7 @@
 
 ## About myself
 
-I want to learn JavaScript in **RSSchool.** I do my best to gain new knoweledge and obtain new skills in this sphere
+I want to learn JavaScript in **RSSchool.** I do my best to gain new knoweledge and obtain new skills in this sphere.
 
 
 ## Skills
